@@ -7,8 +7,8 @@
 ## 1부. 더 큰 그림
 
 - [단위 테스트 목표](https://github.com/zhwltlr/TestCode-Study/blob/main/1%EC%9E%A5/%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%AA%A9%ED%91%9C.md)
-- [단위 테스트란 무엇인가]()
-- [단위 테스트 구조]()
+- [단위 테스트란 무엇인가](https://github.com/zhwltlr/TestCode-Study/blob/main/2%EC%9E%A5/%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%9E%80.md)
+- [단위 테스트 구조](https://github.com/zhwltlr/TestCode-Study/blob/main/3%EC%9E%A5/%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B5%AC%EC%A1%B0.md)
 
 ## 2부. 개발자에게 도움이 되는 테스트 만들기
 
