@@ -12,9 +12,9 @@
 
 ## 2부. 개발자에게 도움이 되는 테스트 만들기
 
-- [좋은 단위 테스트의 4대 요소]()
-- [목과 테스트 취약성]()
-- [단위 테스트 스타일]()
+- [좋은 단위 테스트의 4대 요소](https://github.com/zhwltlr/TestCode-Study/blob/main/4%EC%9E%A5/%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8%204%EC%9A%94%EC%86%8C.md)
+- [목과 테스트 취약성](https://github.com/zhwltlr/TestCode-Study/blob/main/5%EC%9E%A5/%EB%AA%A9%EA%B3%BC%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%B7%A8%EC%95%BD%EC%84%B1.md)
+- [단위 테스트 스타일](https://github.com/zhwltlr/TestCode-Study/blob/main/6%EC%9E%A5/%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%8A%A4%ED%83%80%EC%9D%BC.md)
 - [가치 있는 단위 테스트를 위한 리팩터링]()
 
 ## 3부. 통합 테스트
